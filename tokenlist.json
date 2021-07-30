@@ -1,0 +1,25 @@
+{
+  "name": "FizzySwap",
+  "logoURI": "https://raw.githubusercontent.com/fizzy-finance/config/master/assets/gulp.svg",
+  "keywords": [
+    "gulp",
+    "fizzy",
+    "defi"
+  ],
+  "timestamp": "2021-07-30T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 4,
+      "address": "0x4aad7676a9b6ed543D7E74fD534d74003D8699Cf",
+      "name": "Gulp Token",
+      "symbol": "GULP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/fizzy-finance/config/master/assets/gulp.svg"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
