@@ -15,7 +15,47 @@
       "symbol": "GULP",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/fizzy-finance/config/master/assets/gulp.svg"
-    }
+    },
+    {
+      "chainId": 4,
+      "address": "0xd1F3C643Fc68f86bB9cf59E719bDDCfb986532aa",
+      "name": "wETH Token",
+      "symbol": "wETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_eth.svg"
+    },
+    {
+      "chainId": 4,
+      "address": "0xd45eec73e2a08cd502b7ac1fde247c9e74a0b39a",
+      "name": "USDC Token",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+    },
+    {
+      "chainId": 4,
+      "address": "0xf1538cac9d5fa9212a430cd1453d77646fd4a6e8",
+      "name": "MATIC Token",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/4713/thumb/matic-token-icon.png?1624446912"
+    },
+    {
+      "chainId": 4,
+      "address": "0x669c912369355ffee85fd40d88d5ba6c70cfc03b",
+      "name": "AAVE Token",
+      "symbol": "AAVE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12645/thumb/AAVE.png?1601374110"
+    },
+    {
+      "chainId": 4,
+      "address": "0xa7121a72efab54cbe209e7ace48c3e7db6fbd27a",
+      "name": "BAT Token",
+      "symbol": "BAT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/677/thumb/basic-attention-token.png?1547034427"
+    },
   ],
   "version": {
     "major": 1,
