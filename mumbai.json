@@ -1,0 +1,25 @@
+{
+  "name": "FizzySwap",
+  "logoURI": "https://raw.githubusercontent.com/fizzy-finance/config/master/assets/gulp.svg",
+  "keywords": [
+    "gulp",
+    "fizzy",
+    "defi"
+  ],
+  "timestamp": "2021-07-30T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 80001,
+      "address": "0xE7277BcF9996F6867848791B102ec7199bd68AE2",
+      "name": "USDC token",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/fizzy-finance/config/master/assets/gulp.svg"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
