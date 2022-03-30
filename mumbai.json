@@ -10,12 +10,44 @@
   "tokens": [
     {
       "chainId": 80001,
-      "address": "0xE7277BcF9996F6867848791B102ec7199bd68AE2",
-      "name": "USDC token",
-      "symbol": "USDC",
-      "decimals": 6,
+      "address": "0x89f94b8e2382f473fb6b8dd3f3a03cf1bde03a23",
+      "name": "GULP token",
+      "symbol": "GULP",
+      "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/fizzy-finance/config/master/assets/gulp.svg"
-    }
+    },
+    {
+      "chainId": 80001,
+      "address": "0xF548Cf65A6702411Bdf048dD56D112685425EeeE",
+      "name": "wETH token",
+      "symbol": "wETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_eth.svg"
+    },
+    {
+      "chainId": 80001,
+      "address": "0x39b9f9edcf5a913bcc012c844871b6f4e4cdae58",
+      "name": "USDT token",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
+    },
+    {
+      "chainId": 80001,
+      "address": "0xB20443A0Fd63b2Eb7ad9AA1Ca38dfB1994c13461",
+      "name": "wMATIC token",
+      "symbol": "wMATIC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/4713/thumb/matic-token-icon.png?1624446912"
+    },
+    {
+      "chainId": 80001,
+      "address": "0xa067F921c9d55Ba2699849Bfc4EC2CB046EcBB56",
+      "name": "wBTC token",
+      "symbol": "wBTC",
+      "decimals": 8,
+      "logoURI": "https://github.com/compound-finance/token-list/blob/master/assets/ctoken_wbtc.svg"
+    },
   ],
   "version": {
     "major": 1,
