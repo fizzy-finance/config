@@ -10,7 +10,7 @@
   "tokens": [
     {
       "chainId": 80001,
-      "address": "0x1e15B1161A1fC2a2e150c0d96B134fEBEddc08e6",
+      "address": "0x3B7C6f9ce08bb9aD2A69e2a4F5841e0b01d0219D",
       "name": "GULP token",
       "symbol": "GULP",
       "decimals": 18,
@@ -47,7 +47,7 @@
       "symbol": "wBTC",
       "decimals": 8,
       "logoURI": "https://github.com/compound-finance/token-list/blob/master/assets/ctoken_wbtc.svg"
-    },
+    }
   ],
   "version": {
     "major": 1,
