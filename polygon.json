@@ -1,0 +1,57 @@
+{
+  "name": "FizzySwap",
+  "logoURI": "https://raw.githubusercontent.com/fizzy-finance/config/master/assets/gulp.svg",
+  "keywords": [
+    "gulp",
+    "fizzy",
+    "defi"
+  ],
+  "timestamp": "2022-04-17T12:41:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0xc7ae3052f32f0c686ca5f53e0423ec2d98c5de6d",
+      "name": "GULP token",
+      "symbol": "GULP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/fizzy-finance/config/master/assets/gulp.svg"
+    },
+    {
+      "chainId": 137,
+      "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+      "name": "WETH token",
+      "symbol": "wETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_eth.svg"
+    },
+    {
+      "chainId": 137,
+      "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+      "name": "USDT token",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
+    },
+    {
+      "chainId": 137,
+      "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+      "name": "WMATIC token",
+      "symbol": "WMATIC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/4713/thumb/matic-token-icon.png?1624446912"
+    },
+    {
+      "chainId": 137,
+      "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+      "name": "wBTC token",
+      "symbol": "wBTC",
+      "decimals": 8,
+      "logoURI": "https://github.com/compound-finance/token-list/blob/master/assets/ctoken_wbtc.svg"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
